@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework 2.6</string>
+    <string name="fotgot_psswr">Забыли пароль!</string>
+    <string name="click_to">Нажми сюда</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="register">Выполните вход\n или зарегиструйтесь</string>
+</resources>
